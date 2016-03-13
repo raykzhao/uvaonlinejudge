@@ -1,2 +1,2 @@
 # uvaonlinejudge
-UVA Online Judge
+These are all problems I have solved on UVA Online Judge.
